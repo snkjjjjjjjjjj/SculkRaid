@@ -1,0 +1,13 @@
+name: SculkRaid
+version: '1.0'
+main: fun.snkj.sculkRaid.SculkRaid
+api-version: '1.21'
+prefix: SculkRaid
+load: STARTUP
+authors: [ snkjjjjjjjjjj ]
+description: idk
+website: https://tg.snkj.fun/
+commands:
+  sculkraid:
+    description: starts sculk raid
+    usage: /sculkraid
